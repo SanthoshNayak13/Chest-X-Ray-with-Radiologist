@@ -88,12 +88,6 @@ pip install -r requirements.txt
 - Pillow   9.1.0
 - protobuf   3.19.0
 
---------
-# Authors & Contributors
-
-The application was developed by:
-- [Pablo Reyes](https://github.com/Rules99)
-- [Fernando Pozo](https://github.com/fpozoc)
 
 --------
 # Acknowledgements
