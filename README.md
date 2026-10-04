@@ -52,8 +52,8 @@ conda activate cxr-rai
 Clone this repository and install it inside your recently created Conda environment.
 
 ```sh
-git clone https://github.com/Rules99/Chest-X-Ray-with-Radiologist-AI
-cd Chest-X-Ray-with-Radiologist-AI
+git clone https://github.com/SanthoshNayak13/Chest-X-Ray-with-Radiologist.git
+cd Chest-X-Ray-with-Radiologist
 pip install -r requirements.txt
 ```
 
